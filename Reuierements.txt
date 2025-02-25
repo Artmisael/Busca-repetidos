@@ -1,0 +1,2 @@
+Tener Python 3.11.9
+Haber instalado la libreria tkinter de python
